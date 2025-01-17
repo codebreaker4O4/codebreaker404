@@ -10,7 +10,7 @@
 ###
 
 
-<div class="tenor-gif-embed" data-postid="24991476" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-scaler-create-impact-monkey-programmer-gif-24991476">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZ0Z3ExN3p0azVncGtwbjgzaXFnd2hscTU5NXhxdWloenFqaWJlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y853jRq5TrMHVGn4nl/giphy.gif">
   
 ###
 
