@@ -9,9 +9,9 @@
 
 ###
 
-
-<img align="center" src="https://media1.tenor.com/m/hmDMrE1yMAkAAAAd/when-the-coding-when-the.gif">
-  
+<div align="center">
+  <img align="center" src="https://media1.tenor.com/m/hmDMrE1yMAkAAAAd/when-the-coding-when-the.gif">
+</div>
 ###
 
 <div align="left">
