@@ -10,10 +10,16 @@
 ###
 
 
-<div class="tenor-gif-embed" data-postid="24991476" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-scaler-create-impact-monkey-programmer-gif-24991476">
-  
 ###
 
+<div align="center">
+  <img align="center" src="https://media1.tenor.com/m/hmDMrE1yMAkAAAAd/when-the-coding-when-the.gif">
+</div>
+
+###
+
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
