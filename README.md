@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://tenor.com/en-GB/view/cat-computer-typing-fast-gif-5368357"  />
+<img align="right" height="150" src="https://tenor.com/en-GB/view/cat-computer-typing-fast-gif-5368357"  />
 
 ###
 
