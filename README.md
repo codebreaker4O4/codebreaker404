@@ -8,12 +8,18 @@
 </div>
 
 ###
+
+
 ###
+
 <div align="center">
   <img align="center" src="https://media1.tenor.com/m/hmDMrE1yMAkAAAAd/when-the-coding-when-the.gif">
 </div>
+
 ###
 
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
